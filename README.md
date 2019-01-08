@@ -1,7 +1,17 @@
-# IssueHunt Materials
+# ✨ IssueHunt Materials - v1
 
 [IssueHunt](https://issuehunt.io/) is the bounty platform for open-source projects.
 
 Feel free to use images on your Readme and blog :D
 
-![issuehunt-image](https://cdn-images-1.medium.com/max/800/1*oQszREMYl47gbIiMMjKGAA.png)
+## 1. Logo
+![issuehunt-image-v1](./v1/issuehunt-logo-v1.svg)
+
+## 2. Button
+![issuehunt-readme-button-v1](./v1/issuehunt-button-v1.svg)
+
+## 3. Ribbon
+![issuehunt-ribbon-v1](./v1/issuehunt-ribbon-v1.svg)
+
+## 4. Shield
+![issuehunt-shield-v1](./v1/issuehunt-shield-v1.svg)
