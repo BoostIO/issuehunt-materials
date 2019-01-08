@@ -10,9 +10,6 @@ Feel free to use images on your Readme and blog :D
 ## 2. Button
 ![issuehunt-readme-button-v1](./v1/issuehunt-button-v1.svg)
 
-**_Note._**  
-_There are 3 files in total:_ `@1x.png`, `@2x.png`, `.svg`
-
 ## 3. Ribbon
 ![issuehunt-ribbon-v1](./v1/issuehunt-ribbon-v1.svg)
 
