@@ -15,3 +15,9 @@ Feel free to use images on your Readme and blog :D
 
 ## 4. Shield
 ![issuehunt-shield-v1](./v1/issuehunt-shield-v1.svg)
+
+## 5. Logo and word
+![issuehunt-logo-and-word-v1](./v1/issuehunt-logo-and-word-v1.png)
+
+## 5. Cover image
+![issuehunt-cover](./v1/issuehunt-cover.jpeg)
