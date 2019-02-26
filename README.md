@@ -1,6 +1,6 @@
 # ✨ IssueHunt Materials - v1
 
-[IssueHunt](https://issuehunt.io/) is the bounty platform for open-source projects.
+[IssueHunt](https://issuehunt.io/) is an issue-based bounty platform for open-source projects.
 
 Feel free to use images on your Readme and blog :D
 
