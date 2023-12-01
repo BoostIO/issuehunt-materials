@@ -17,7 +17,7 @@ Feel free to use images on your Readme and blog :D
 ![issuehunt-ribbon-v1](./v1/issuehunt-ribbon-v1.svg)
 
 ## 5. Logo and word
-![issuehunt-logo-and-word-v1](./v1/issuehunt-logo-and-word-v1.png)
+![issuehunt-logo-and-word-v1](./v1/issuehunt-logo-and-word-v2.svg)
 
 ## 6. Cover image
 ![issuehunt-cover](./v1/issuehunt-cover.jpeg)
